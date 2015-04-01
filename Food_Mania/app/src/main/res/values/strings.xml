@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Food Mania</string>
+    <string name="title_section1">My Current Location</string>
+    <string name="title_section2">Nearest Restaurants</string>
+    <string name="title_section3">All Restaurants</string>
+    <string name="title_section4">Price Filter</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="display1">Display 1</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="foocheck">Food</string>
+    <string name="beveragecheck">Beverages</string>
+    <string name="amount">Amount</string>
+    <string name="title_activity_maps_activity2">Map</string>
+    <string name="CurrentLocation">My Current Location</string>
+
+</resources>
